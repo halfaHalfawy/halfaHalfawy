@@ -17,7 +17,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught  developer
 - I’m currently open for a new job opportunity
 
 <br><br>
