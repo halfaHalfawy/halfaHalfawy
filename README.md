@@ -1,6 +1,9 @@
 
-<h1 align="center"><b>Hi , I'm Mohammed Abdalmonem</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Mohammed Abdalmonem</b>
 
+
+</h1>
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">--!>
 <p align="center">
 <a href="https://github.com/halfaHalfawy"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mobile+application+developer;Native+(JAVA%2CKotlin)+%2Ccross+Flutter" alt="Typing SVG" /></a>
 </p>
@@ -10,15 +13,18 @@
 
 
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<!--## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**--!>
+
+<!--<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>--!>
 
 <br>
 
-- A passionate Self-taught  developer
-- I’m currently open for a new job opportunity
+<div align='center'>
+
+<b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
+</div>
 
 <br><br>
 <!--
@@ -136,16 +142,11 @@
 <br>
 <br>
 --!> 
-<div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
 <br>
 <br>
 <br>
 <br>
 
----
 
 <br>
