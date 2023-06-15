@@ -19,14 +19,25 @@
 <!--<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>--!>
 
 <br>
+<br>
+<h2><a href="https://www.mediafire.com/file/b1obwdwx424jxbl/naturely.apk/file">The naturely app </a></h2>
+<p>
+       is simple app that uses pexels api to show special kinds and filtered images 
+</p>
+<h2><a href="https://www.mediafire.com/file/e61gbkstu8jzf8r/openOnWhatsapp.apk/file">openOnWhatsapp </a></h2>
+<p >
+  <space>     simple app enable you directly after install it to open whatsapp from any phone number that share with the app when select any text from any app <br>
+       or you can open the app and write the phone number you want to open a chat with it 
+</p>
 
 <div align='center'>
-
+<br><br>
 <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
 </div>
 
-<br><br>
+
+
 <!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
