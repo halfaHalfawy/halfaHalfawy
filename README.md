@@ -20,6 +20,10 @@
 
 <br>
 <br>
+<h2><a href="https://www.mediafire.com/file/yohknqiu4mkwftg/app-release.apk/file">Masari app </a></h2>
+<p>
+      Masari is a cutting-edge Flutter application designed to revolutionize the job search and recruitment process. With its intuitive and user-friendly interface, Masari empowers both job seekers and recruiters by bridging the gap between them, making the hiring process more efficient and seamless.
+</p>
 <h2><a href="https://www.mediafire.com/file/inx2f2tdt7it5lb/naturely.apk/file">The naturely app </a></h2>
 <p>
        is simple app that uses pexels api to show special kinds and filtered images 
