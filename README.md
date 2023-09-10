@@ -20,7 +20,11 @@
 
 <br>
 <br>
-<h2><a href="https://www.mediafire.com/file/yohknqiu4mkwftg/app-release.apk/file">Masari app </a></h2>
+<h2><a href="https://drive.google.com/uc?export=download&id=1g1v_C0YNi_kO1jafS7_ZT215HVaAIWih">Dar aleftaa app </a></h2>
+<p>
+this app is for dar aleftaa students to learn and show their progress
+</p>
+<h2><a href="https://drive.google.com/file/d/1MOpJ7gJqToNo0tsQGOe7jSPhpgXBp2-k/view?usp=sharing">Masari app </a></h2>
 <p>
       Masari is a cutting-edge Flutter application designed to revolutionize the job search and recruitment process. With its intuitive and user-friendly interface, Masari empowers both job seekers and recruiters by bridging the gap between them, making the hiring process more efficient and seamless.
 </p>
