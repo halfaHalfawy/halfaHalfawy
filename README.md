@@ -12,8 +12,14 @@
 <br>
 
 
-- 💬 Ask me about **Flutter, Android SDK APIs,Android archetecture components,Android Jetback**
+- 💬 Ask me about **Flutter, Android SDK APIs,Android archetecture components,Android Jetback**.
+- worked in video editing app using **Android SDK** and **FFmpeg** library (this lets me be familiar with video
+and image editing and signal processing tools).
+- familiar with integrating with payment gateways and SDKs.
+- familiar with realtime communication techniques .
+- familiar with **Firebase** services,Google **maps** SDK ,**google** **Ads** ,Google **play** **console**, **Apple** **app** **store** **connect**.
 - 📫 How to reach me **mabdalmonim474@gmail.com**
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
