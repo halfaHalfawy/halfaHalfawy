@@ -16,9 +16,10 @@
 - worked in video editing app using **Android SDK** and **FFmpeg** library (this lets me be familiar with video
 and image editing and signal processing tools).
 - familiar with integrating with payment gateways and SDKs.
+- familiar with POS integration.
 - familiar with realtime communication techniques .
 - familiar with **Firebase** services,Google **maps** SDK ,**google** **Ads** ,Google **play** **console**, **Apple** **app** **store** **connect**.
-
+- have respect to clean code and archetecturing techneiques and Solid principles.
 
 
 <h3 align="left">Languages and Tools:</h3>
