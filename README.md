@@ -19,6 +19,7 @@ and image editing and signal processing tools).
 - familiar with POS integration.
 - familiar with realtime communication techniques .
 - familiar with **Firebase** services,Google **maps** SDK ,**google** **Ads** ,Google **play** **console**, **Apple** **app** **store** **connect**.
+- worked with ci/cd tools like Github actions and codemagic to easly test build and deploy apps to google play and app store connect .
 - have respect to clean code and archetecturing techneiques and Solid principles.
 
 
