@@ -12,47 +12,24 @@
 <br>
 
 
+- 💬 Ask me about **Flutter, Android SDK APIs,Android archetecture components,Android Jetback**
+- 📫 How to reach me **mabdalmonim@gmail.com**
 
-
-<!--## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**--!>
-
-<!--<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>--!>
-
-<br>
-<br>
-
-<h2><a href="https://drive.google.com/file/d/1fI-Dm59Gc-D_-4mmCt3k6UUlO0S-4rP6/view?usp=sharing">Dar aleftaa app </a></h2>
-<p>
-this app is for dar aleftaa students to learn and show their progress
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohammed-abdalmonem-3272141b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-abdalmonem-3272141b8" height="30" width="40" /></a>
 </p>
 
-<h2><a href="https://drive.google.com/file/d/1MOpJ7gJqToNo0tsQGOe7jSPhpgXBp2-k/view?usp=sharing">Masari app </a></h2>
-<p>
-      Masari is a cutting-edge Flutter application designed to revolutionize the job search and recruitment process. With its intuitive and user-friendly interface, Masari empowers both job seekers and recruiters by bridging the gap between them, making the hiring process more efficient and seamless.
-</p>
-<h2><a href="https://www.mediafire.com/file/inx2f2tdt7it5lb/naturely.apk/file">The naturely app </a></h2>
-<p>
-       is simple app that uses pexels api to show special kinds and filtered images 
-</p>
-<h2><a href="https://drive.google.com/file/d/1t0D47ZhRPos3vdNl-5wL01UaCTa2QlAV/view?usp=drive_link">Vocational academy </a></h2>
 
-<!--
-<h2><a href="https://www.mediafire.com/file/e61gbkstu8jzf8r/openOnWhatsapp.apk/file">openOnWhatsapp </a></h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-
-
-<p >
-  <space>     simple app enable you directly after install it to open whatsapp from any phone number that share with the app when select any text from any app <br>
-       or you can open the app and write the phone number you want to open a chat with it 
-</p>
---!>
-<div align='center'>
 <br><br>
 <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
 </div>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=halfahalfawy&label=Profile%20views&color=0e75b6&style=flat" alt="halfahalfawy" /> </p>
 
 <!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
