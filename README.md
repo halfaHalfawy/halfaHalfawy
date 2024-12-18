@@ -3,6 +3,9 @@
 
 
 </h1>
+<br>
+<p  align="right"> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</p>
+
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">--!>
 <p align="center">
 <a href="https://github.com/halfaHalfawy"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mobile+application+developer;Native+(JAVA%2CKotlin)+%2Ccross+Flutter" alt="Typing SVG" /></a>
@@ -41,8 +44,7 @@ Or
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halfahalfawy&label=Profile%20views&color=0e75b6&style=flat" alt="halfahalfawy" /> </p>
 
-<br><br>
-<b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
 <!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
